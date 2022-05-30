@@ -1,0 +1,3 @@
+function wbSortMethods
+    wbSortTraces('?')
+end
